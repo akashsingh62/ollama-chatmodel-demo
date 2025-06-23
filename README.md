@@ -13,7 +13,7 @@ A sleek, privacy-first conversational chat app powered by **Ollama's LLaMA3** mo
 ## ✨ Features
 
 ✅ Fully local — no internet, no cloud model  
-✅ Powered by LLaMA3 via [Ollama](https://ollama.com)  
+✅ Powered by LLaMA3 via [Ollama]((https://github.com/your-username/your-repo-name/assets/chatbot screen shot .png))  
 ✅ Responsive UI using Streamlit  
 ✅ Chat history display  
 ✅ Modern dark theme  
