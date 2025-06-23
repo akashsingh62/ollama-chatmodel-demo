@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+ollama
+pip install ollama
+pip run ollama run llama3
