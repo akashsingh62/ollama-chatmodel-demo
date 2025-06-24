@@ -6,7 +6,7 @@ A sleek, privacy-first conversational chat app powered by **Ollama's LLaMA3** mo
 
 ## 📸 Demo
 
-                                 ![Chat App Screenshot]
+                                               ![Chat App Screenshot]
  ![img alt](https://github.com/akashsingh62/ollama-chatmodel-demo/blob/main/chatbot%20screen%20shot%20.png?raw=true)
 
 ## ✨ Features
