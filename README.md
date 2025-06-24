@@ -7,13 +7,13 @@ A sleek, privacy-first conversational chat app powered by **Ollama's LLaMA3** mo
 ## 📸 Demo
 
 ![Chat App Screenshot](chatbot screen shot .png)
-
+((https://github.com/your-username/your-repo-name/assets/chatbot screen shot .png)) 
 ---
 
 ## ✨ Features
 
 ✅ Fully local — no internet, no cloud model  
-✅ Powered by LLaMA3 via [Ollama]((https://github.com/your-username/your-repo-name/assets/chatbot screen shot .png))  
+✅ Powered by LLaMA3 via [Ollama] 
 ✅ Responsive UI using Streamlit  
 ✅ Chat history display  
 ✅ Modern dark theme  
