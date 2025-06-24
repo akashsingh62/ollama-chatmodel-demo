@@ -34,5 +34,4 @@ A sleek, privacy-first conversational chat app powered by **Ollama's LLaMA3** mo
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/ollama-streamlit-chat.git
-cd ollama-streamlit-chat
+(https://github.com/ollama/ollama)
